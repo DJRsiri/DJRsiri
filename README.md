@@ -1,4 +1,8 @@
 ## Hi there 👋
+INFP人，是一个Furry控（正常的，但没设子xwx）<br>
+喜欢研究捣鼓点技术性方面的东西，涉及内容范围广泛，几乎啥都懂点（？<br>
+人很好交流，就是有点社恐。<br> 
+你可以通过邮件联系我awa -> **[tim223344@outlook.com](mailto:tim223344@outlook.com)**<br> 
 
 <!--
 **DJRsiri/DJRsiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+嗯？你在找什么。
 -->
